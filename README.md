@@ -1,1 +1,4 @@
-"# Tweet" 
+- Its a web application developed in .net framework. 
+- It uses TweetinvAPI and 
+- present data with AngulaJS 1.5.
+- You need to add your Twitter credentials into Web.config
